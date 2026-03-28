@@ -1,1 +1,1 @@
-# Numpy_Kutuphanesi
+Numpy Kütüphanesi ile ilgili tuttuğum notlar.
